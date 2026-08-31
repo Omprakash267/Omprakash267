@@ -4,17 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%95%B7%EF%B8%8F+Hey%2C+I%27m+Omprakash;A+web-slinging+developer;Machine+Learning+%7C+Full-Stack+%7C+AI;Spinning+RAG+chatbots+%26+LSTM+models;Welcome+to+my+web...&font=Fira%20Code&size=24&pause=1200&color=E63946&center=true&vCenter=true&width=650&height=60&separator=;" alt="Typing SVG" />
 
-</div>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100%">
-</p>
-
-<div align="center">
-
-### 🕸️ *"With great commits comes great responsibility"* 🕸️
-
-<img src="https://media.giphy.com/media/xUOxf48VHUXSlWJflO/giphy.gif" width="260" alt="spider crawling"/>
+### 🕷️ *"With great commits comes great responsibility"* 🕸️
 
 </div>
 
@@ -33,7 +23,18 @@ const omprakash = {
 };
 ```
 
-<img align="right" src="https://avatars.githubusercontent.com/u/219404970?v=4" width="180" style="border-radius:50%; border: 3px solid #8B0000;" alt="Omprakash267 avatar"/>
+<table>
+<tr>
+<td width="180">
+
+<div align="center">
+<img src="https://avatars.githubusercontent.com/u/219404970?v=4" width="150" style="border-radius:50%; border: 4px solid #8B0000;" alt="Omprakash267 spider avatar"/>
+<br/>
+🕷️🕸️🕷️
+</div>
+
+</td>
+<td>
 
 - 🔭 I'm currently spinning webs of code around **RAG chatbots**, **LSTM models**, and **full-stack apps**
 - 🕸️ I like connecting nodes — literally (neural nets) and figuratively (people!)
@@ -42,7 +43,9 @@ const omprakash = {
 - 🕷️ My GitHub contribution graph looks like a spider web when it's a good week
 - 📫 Reach me: **[LinkedIn](https://linkedin.com/in/omprakash-senthilkumar-866a53289)** | **[Portfolio](https://omprakash26.vercel.app)**
 
-<br clear="right"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -50,11 +53,8 @@ const omprakash = {
 
 ## 🕸️ My Web of Skills
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="120" align="left" alt="spider"/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,html,css,tensorflow,git,vscode,figma,vercel&perline=6" alt="Skills"/>
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,html,css,tensorflow,git,vscode,figma,vercel&perline=6" />
-
-<br clear="left"/>
 </div>
 
 ---
@@ -119,11 +119,16 @@ A web tool that helps identify diabetes type from health parameters.
 ## 🕷️ Web Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=Omprakash267&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=E63946&icon_color=8B0000&text_color=ffffff&count_private=true" width="48%" alt="GitHub stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Omprakash267&theme=dark&hide_border=true&background=0d0d0d&ring=8B0000&fire=E63946&currStreakLabel=E63946" width="48%" alt="GitHub streak"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omprakash267&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=E63946&text_color=ffffff" width="45%" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omprakash267&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=E63946&text_color=ffffff" width="42%" alt="Top languages"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omprakash267&theme=react-dark&bg_color=0d0d0d&color=E63946&line=8B0000&point=ffffff&hide_border=true" width="90%" alt="Activity graph"/>
+
+<br/>
+
+<!-- Spider avatar in place of the usual "streak" flame icon -->
+<img src="https://avatars.githubusercontent.com/u/219404970?v=4" width="70" style="border-radius:50%; border: 3px solid #E63946;" alt="spider avatar streak marker"/>
+<br/>
+🕷️ **spinning code webs, one commit at a time** 🕸️
 
 </div>
 
@@ -144,8 +149,6 @@ A web tool that helps identify diabetes type from health parameters.
 </a>
 
 <br/><br/>
-
-<img src="https://media.giphy.com/media/3o7abGQa0aRJUurpwI/giphy.gif" width="200" alt="spider web spin"/>
 
 ### 🕷️ Thanks for visiting my web — don't get too tangled up! 🕸️
 
