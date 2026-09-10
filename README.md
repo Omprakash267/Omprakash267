@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Omprakash Senthilkumar
+👋 Hi, I'm Omprakash Senthilkumar
 
-### B.Tech Artificial Intelligence & Data Science Student | Full-Stack Developer | ML Enthusiast
+B.Tech Artificial Intelligence & Data Science Student | Full-Stack Developer | ML Enthusiast
 
 <p>
   <a href="https://github.com/Omprakash267">
@@ -16,134 +16,145 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+%26+Data+Science+Student;MERN+Stack+Developer;Machine+Learning+Enthusiast;Building+Projects+and+Learning+Every+Day" alt="Typing animation">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="520" alt="Coding animation">
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=36BCF7&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Data+Science;MERN+Stack+Developer;Machine+Learning+Enthusiast;Building+Projects+and+Learning+Every+Day" alt="Typing animation">
 
 </div>
 
----
+🚀 About Me
 
-## 🚀 About Me
+I am a motivated technology enthusiast pursuing a B.Tech in Artificial Intelligence and Data Science at Dr.N.G.P Institution of Technology, Coimbatore.
 
-I am a motivated technology enthusiast pursuing a **B.Tech in Artificial Intelligence and Data Science** at **Dr.N.G.P Institution of Technology, Coimbatore**.
+I enjoy building practical software projects, exploring machine learning and emerging technologies, and continuously improving my development skills. My interests include frontend development, backend development, machine learning, and Generative AI.
 
-I enjoy building practical software projects, exploring machine learning and emerging technologies, and continuously improving my development skills. My interests include **frontend development, backend development, machine learning, and Generative AI**.
+💡 Learn. Build. Experiment. Improve.
 
-> 💡 *Learn. Build. Experiment. Improve.*
+🛠️ Tech Stack
 
----
+💻 Programming Languages
 
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,js" alt="Programming Languages">
 </p>
 
-### 🌐 Web Development
+🌐 Web Development
+
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb" alt="Web Technologies">
 </p>
 
-### 🤖 AI / Machine Learning
+🤖 AI / Machine Learning
+
 <p>
   <img src="https://skillicons.dev/icons?i=python,tensorflow" alt="AI and ML">
 </p>
 
-**Machine Learning:** Regression • Classification • Clustering  
-**Deep Learning:** Neural Networks
+Machine Learning: Regression • Classification • Clustering
+Deep Learning: Neural Networks
 
-### 🧰 Tools
+🧰 Tools
+
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools">
 </p>
 
-**Also:** SQL • Power BI
+Also: SQL • Power BI
 
----
+💼 Internship Experience
 
-## 💼 Internship Experience
+MERN Stack Developer Intern
 
-### MERN Stack Developer Intern
-**App Innovation Technologies Pvt Ltd**
+App Innovation Technologies Pvt Ltd
 
-- Developed and deployed full-stack web applications using the **MERN stack**.
-- Built responsive and user-friendly interfaces using modern frontend technologies.
-- Worked with **Git and GitHub** for version control and team collaboration.
-- Participated in code reviews and followed agile development practices.
+Developed and deployed full-stack web applications using the MERN stack.
 
----
+Built responsive and user-friendly interfaces using modern frontend technologies.
 
-## 📌 Featured Projects
+Worked with Git and GitHub for version control and team collaboration.
 
-### 🛒 StartupKart
-**2025 – 2026**
+Participated in code reviews and followed agile development practices.
+
+📌 Featured Projects
+
+🛒 StartupKart
+
+2025 – 2026
 
 A taxation and price-analysis platform designed to provide GST calculations, product cost evaluation, financial insights, historical price analysis, and product recommendations for startup businesses.
 
-**Highlights**
-- GST calculation and product cost evaluation
-- Historical price and market-data analysis
-- Purchasing recommendations
-- Intelligent product recommendation engine
+Highlights
 
----
+GST calculation and product cost evaluation
 
-### ❤️ Heart Disease Prediction System
-**2024 – 2025**
+Historical price and market-data analysis
+
+Purchasing recommendations
+
+Intelligent product recommendation engine
+
+❤️ Heart Disease Prediction System
+
+2024 – 2025
 
 A machine learning application that predicts heart disease risk using clinical parameters such as age, cholesterol, and blood pressure.
 
-**Highlights**
-- Machine learning classification
-- SMOTE for class-imbalance handling
-- Cross-validation for better generalization
-- Interactive deployment using Streamlit
+Highlights
 
----
+Machine learning classification
 
-### 🅿️ Smart Parking System
-**2023 – 2024**
+SMOTE for class-imbalance handling
+
+Cross-validation for better generalization
+
+Interactive deployment using Streamlit
+
+🅿️ Smart Parking System
+
+2023 – 2024
 
 A real-time smart parking solution using Python and computer vision to detect and display vacant parking spaces.
 
-**Highlights**
-- OpenCV-based image processing
-- Automatic vacant-space detection
-- Testing under different lighting conditions
-- Reduced manual parking-space monitoring
+Highlights
 
----
+OpenCV-based image processing
 
-## 🏆 Certifications
+Automatic vacant-space detection
 
-- 🥇 **Introduction to HCI** — NPTEL *(Elite + Gold)*
-- 🏅 **Introduction to Internet of Things** — NPTEL *(Elite)*
+Testing under different lighting conditions
 
----
+Reduced manual parking-space monitoring
 
-## 🎯 Achievements & Activities
+🏆 Certifications
 
-- **MSME 2024** — Submission Level
-- **Smart India Hackathon (SIH)** — Submission Level
-- **Paper Presentation** at S.N.R. Institute of Technology
-- **Event Coordinator — Alzenixx**
-- **Event Coordinator — Prompt Forge & Paper Presentation**
-  - Coordinated and managed **100+ participants**
+🥇 Introduction to HCI — NPTEL (Elite + Gold)
 
----
+🏅 Introduction to Internet of Things — NPTEL (Elite)
 
-## 🌱 Currently Interested In
+🎯 Achievements & Activities
 
-```text
+MSME 2024 — Submission Level
+
+Smart India Hackathon (SIH) — Submission Level
+
+Paper Presentation at S.N.R. Institute of Technology
+
+Event Coordinator — Alzenixx
+
+Event Coordinator — Prompt Forge & Paper Presentation
+
+Coordinated and managed 100+ participants
+
+🌱 Currently Interested In
+
 Frontend Development  ████████████████████░  Learning & Building
 Backend Development   ██████████████████░░  Learning & Building
 Machine Learning      ██████████████████░░  Exploring
 Generative AI         ████████████████░░░░  Exploring
-```
 
----
-
-## 📊 GitHub Activity
+📊 GitHub Activity
 
 <div align="center">
 
@@ -155,9 +166,7 @@ Generative AI         ████████████████░░░�
 
 </div>
 
----
-
-## 🐍 Contribution Activity
+🐍 Contribution Activity
 
 <div align="center">
 
@@ -165,11 +174,9 @@ Generative AI         ████████████████░░░�
 
 </div>
 
-> If the snake animation is not visible, create the GitHub Actions workflow described below.
+If the snake animation is not visible, create the GitHub Actions workflow described below.
 
----
-
-## 📈 Contribution Graph
+📈 Contribution Graph
 
 <div align="center">
 
@@ -177,19 +184,33 @@ Generative AI         ████████████████░░░�
 
 </div>
 
----
+🎓 Education
 
-## 🎓 Education
+Qualification
 
-| Qualification | Institution | Period | Result |
-|---|---|---:|---:|
-| **B.Tech – AI & Data Science** | Dr.N.G.P Institution of Technology | 2023 – 2027 | CGPA: **7.21** |
-| **HSC** | Perks Matric Higher Secondary School | 2021 – 2023 | **66.1%** |
-| **SSLC** | Perks Matric Higher Secondary School | 2020 – 2021 | — |
+Institution
 
----
+Period
 
-## 🌐 Connect With Me
+B.Tech – AI & Data Science
+
+Dr.N.G.P Institution of Technology
+
+2023 – 2027
+
+HSC
+
+Perks Matric Higher Secondary School
+
+2021 – 2023
+
+SSLC
+
+Perks Matric Higher Secondary School
+
+2020 – 2021
+
+🌐 Connect With Me
 
 <div align="center">
 
@@ -205,11 +226,9 @@ Generative AI         ████████████████░░░�
 
 </div>
 
----
-
 <div align="center">
 
-### 💬 "Turning ideas into projects, one line of code at a time."
+💬 "Turning ideas into projects, one line of code at a time."
 
 <img src="https://komarev.com/ghpvc/?username=Omprakash267&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views">
 
