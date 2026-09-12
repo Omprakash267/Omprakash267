@@ -63,91 +63,7 @@ Deep Learning: Neural Networks
 
 Also: SQL • Power BI
 
-💼 Internship Experience
 
-MERN Stack Developer Intern
-
-App Innovation Technologies Pvt Ltd
-
-Developed and deployed full-stack web applications using the MERN stack.
-
-Built responsive and user-friendly interfaces using modern frontend technologies.
-
-Worked with Git and GitHub for version control and team collaboration.
-
-Participated in code reviews and followed agile development practices.
-
-📌 Featured Projects
-
-🛒 StartupKart
-
-2025 – 2026
-
-A taxation and price-analysis platform designed to provide GST calculations, product cost evaluation, financial insights, historical price analysis, and product recommendations for startup businesses.
-
-Highlights
-
-GST calculation and product cost evaluation
-
-Historical price and market-data analysis
-
-Purchasing recommendations
-
-Intelligent product recommendation engine
-
-❤️ Heart Disease Prediction System
-
-2024 – 2025
-
-A machine learning application that predicts heart disease risk using clinical parameters such as age, cholesterol, and blood pressure.
-
-Highlights
-
-Machine learning classification
-
-SMOTE for class-imbalance handling
-
-Cross-validation for better generalization
-
-Interactive deployment using Streamlit
-
-🅿️ Smart Parking System
-
-2023 – 2024
-
-A real-time smart parking solution using Python and computer vision to detect and display vacant parking spaces.
-
-Highlights
-
-OpenCV-based image processing
-
-Automatic vacant-space detection
-
-Testing under different lighting conditions
-
-Reduced manual parking-space monitoring
-
-🏆 Certifications
-
-🥇 Introduction to HCI — NPTEL (Elite + Gold)
-
-🏅 Introduction to Internet of Things — NPTEL (Elite)
-
-🎯 Achievements & Activities
-
-MSME 2024 — Submission Level
-
-Smart India Hackathon (SIH) — Submission Level
-
-Paper Presentation at S.N.R. Institute of Technology
-
-Event Coordinator — Alzenixx
-
-Event Coordinator — Prompt Forge & Paper Presentation
-
-Coordinated and managed 100+ participants
-
-🌱 Currently Interested In
 
 Frontend Development  ████████████████████░  Learning & Building
 Backend Development   ██████████████████░░  Learning & Building
@@ -184,31 +100,6 @@ If the snake animation is not visible, create the GitHub Actions workflow descri
 
 </div>
 
-🎓 Education
-
-Qualification
-
-Institution
-
-Period
-
-B.Tech – AI & Data Science
-
-Dr.N.G.P Institution of Technology
-
-2023 – 2027
-
-HSC
-
-Perks Matric Higher Secondary School
-
-2021 – 2023
-
-SSLC
-
-Perks Matric Higher Secondary School
-
-2020 – 2021
 
 🌐 Connect With Me
 
